@@ -1,0 +1,56 @@
+﻿
+h1 {
+    text-align: left;
+    margin-top: 30%;
+}
+
+.container {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.thumbnail-fit {
+    top: 10%;
+    position: absolute;
+    left: 15%;
+}
+
+.thumb {
+    margin: 10px;
+    box-shadow: rgba(113, 135, 164, 0.65) 0px 0px 4px 3px;
+    -webkit-box-shadow: rgba(113, 135, 164, 0.65) 0px 0px 4px 3px;
+    -moz-box-shadow: rgba(113, 135, 164, 0.65) 0px 0px 4px 3px;
+}
+
+.box1 {
+    width: 200px;
+    height: 100px;
+}
+
+.box2 {
+    width: 200px;
+    height: 150px;
+}
+
+.box3 {
+    width: 100px;
+    height: 200px;
+}
+
+.box4 {
+    width: 150px;
+    height: 200px;
+}
+
+.box5 {
+    width: 150px;
+    height: 150px;
+}
+
+.o_f_v {
+    overflow: visible !important;
+}
+
+    .o_f_v img {
+        opacity: 0.8;
+    }

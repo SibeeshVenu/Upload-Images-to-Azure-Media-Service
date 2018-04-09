@@ -1,0 +1,33 @@
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\ApplicationInsights.config
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\csc.exe
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\vbc.exe
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Upload Images To Azure Media Service From Client Side.dll.config
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Upload Images To Azure Media Service From Client Side.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Upload Images To Azure Media Service From Client Side.pdb
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.Web.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.WindowsServer.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.ApplicationInsights.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.Web.xml
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.AI.WindowsServer.xml
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.ApplicationInsights.xml
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\obj\Debug\Upload Images To Azure Media Service From Client Side.csprojResolveAssemblyReference.cache
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\obj\Debug\Upload Images To Azure Media Service From Client Side.dll
+E:\Visual Studio\Upload Images To Azure Media Service From Client Side\Upload Images To Azure Media Service From Client Side\obj\Debug\Upload Images To Azure Media Service From Client Side.pdb
